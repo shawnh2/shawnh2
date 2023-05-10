@@ -1,4 +1,4 @@
-![gopher](https://user-images.githubusercontent.com/40317966/235357881-9b32bd32-e075-4018-b9b0-8a2718c26a3c.png)
+![go-removebg-preview](https://github.com/shawnh2/shawnh2/assets/40317966/3ef9c871-f351-4593-ba4b-fe5be0d34b5f)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shawnh2)
 
